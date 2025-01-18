@@ -1,0 +1,5 @@
+[SddmGreeterTheme]
+Name=Windows 8
+Theme-Id=Windows8
+Theme-API=2.0
+QtVersion=6
